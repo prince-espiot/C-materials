@@ -1,0 +1,9 @@
+# ninja log v5
+3	2692	6576729918761904	NetworkSim1_autogen/timestamp	f066bda873fb5616
+3	2692	6576729918761904	NetworkSim1_autogen/mocs_compilation.cpp	f066bda873fb5616
+3	2692	6576729918761904	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/NetworkSim1_autogen/timestamp	f066bda873fb5616
+3	2692	6576729918761904	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/NetworkSim1_autogen/mocs_compilation.cpp	f066bda873fb5616
+2706	13084	6576730028339203	CMakeFiles/NetworkSim1.dir/NetworkSim1_autogen/mocs_compilation.cpp.obj	95816ec6279d43b4
+2713	14172	6576730040022480	CMakeFiles/NetworkSim1.dir/main.cpp.obj	78602a37a6c13b0b
+2722	14649	6576730044949654	CMakeFiles/NetworkSim1.dir/mainwindow.cpp.obj	2ba1242a48925a8d
+14649	15562	6576730054174327	NetworkSim1.exe	7e0ce12641d08d3

@@ -1,0 +1,5 @@
+C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/NetworkSim1.dir
+C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/NetworkSim1_autogen_timestamp_deps.dir
+C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/build-NetworkSim1-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/NetworkSim1_autogen.dir
