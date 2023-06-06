@@ -1,7 +1,7 @@
 #include "dragon.hpp"
 
 
-std::ostream& operator<<(std::ostream& out, const Dragon& drag){
+inline std::ostream& operator<<(std::ostream& out, const Dragon& drag){
     out << "Dragon named: " << drag.GetName() << ", age: " << drag.GetAge() <<", size: "<< drag.GetSize() <<std::endl;
     out<<"Treasures:"<<std::endl;
     

@@ -27,13 +27,13 @@ void Adder(std::vector<std::string>& names) {
     std::cin>> name;
     std::cout<<"Number of names in the vector:"<<std::endl;
 
-    while (true)
-    {   
-        names.push_back(name);      /* code */
-        if(name != "\n")
-            /* code */
-             break;
-    }
+    // while (true)
+    // {   
+         names.push_back(name);      /* code */
+    //     if(name != "\n")
+    //         /* code */
+    //          break;
+    // }
     std::cout<< names.size() <<std::endl;
 }
 
